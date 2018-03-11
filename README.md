@@ -1,1 +1,1 @@
-# FaceRecognition_FundamentalAlgorithms
+# FaceRecognition_FundamentalAlgorithmsThis project implemented 4 algorithms for face recognition: Eigenfaces, Fisherfaces, SVM and SRC, and tested on Extended Yale_B dataset.
